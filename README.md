@@ -12,6 +12,8 @@ To analyze the Titanic dataset and highlight key passenger demographics, fare di
 ### 🖼️Dashboard Preview :
 ![Titanic Dashboard Preview](https://github.com/user-attachments/assets/fbfe741f-5b66-483a-9e7e-54aac75bcb4e)
 
+https://github.com/user-attachments/assets/8a5daa90-a7db-4c65-9aba-2eebfdcb75c6
+
 -------------------------------------
 # 📁 Dataset Description:
 - Source: [Titanic Dataset (Cleaned CSV)](https://github.com/Siteshgupta123/Titanic-Dataset-Analysis/blob/main/Titanic%20Dataset%20Cleaned.csv)
